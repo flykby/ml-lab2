@@ -1,0 +1,5 @@
+Вариант,F1_CV,Параметр
+BernoulliNB,0.8233157484818614,{'model__alpha': np.float64(3.1622776601683795)}
+ComplementNB,0.821969956482574,{'model__alpha': np.float64(100.0)}
+MultinomialNB,0.8147619047619047,{'model__alpha': np.float64(1.0)}
+GaussianNB,0.8136758893280632,{'model__var_smoothing': np.float64(0.1)}
